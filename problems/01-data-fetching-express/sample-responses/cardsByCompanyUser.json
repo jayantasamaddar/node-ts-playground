@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "2022-05-02T12:37:34.692Z",
+    "currency": "MXN",
+    "cardInfo": {
+      "cardNumber": "6709783159182147737",
+      "CVV": "154",
+      "spendLimit": 99256,
+      "balance": 97199
+    },
+    "id": "5",
+    "userId": "5"
+  },
+  {
+    "createdAt": "2022-05-01T16:57:21.872Z",
+    "currency": "MXN",
+    "cardInfo": {
+      "cardNumber": "6706305926965313",
+      "CVV": "130",
+      "spendLimit": 71549,
+      "balance": 33447
+    },
+    "id": "16",
+    "userId": "5"
+  }
+]

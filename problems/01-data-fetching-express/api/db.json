@@ -1,0 +1,339 @@
+{
+  "companies": [
+    {
+      "createdAt": "2022-04-25T18:09:35.311Z",
+      "name": "Padberg - Gleason",
+      "active": false,
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-04-24T22:49:39.442Z",
+      "name": "Koss Group",
+      "active": false,
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-04-25T07:42:51.431Z",
+      "name": "Beatty, Vandervort and Schamberger",
+      "active": true,
+      "id": "3"
+    },
+    {
+      "createdAt": "2022-04-25T17:39:46.780Z",
+      "name": "Breitenberg LLC",
+      "active": false,
+      "id": "4"
+    }
+  ],
+  "users": [
+    {
+      "createdAt": "2022-04-25T23:39:46.130Z",
+      "name": "Dr. Boyd Botsford",
+      "id": "1",
+      "companyId": "1",
+      "company": {
+        "createdAt": "2022-04-25T18:09:35.311Z",
+        "name": "Padberg - Gleason",
+        "active": false,
+        "id": "1"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T17:51:14.648Z",
+      "name": "Carroll Wunsch II",
+      "id": "5",
+      "companyId": "1",
+      "company": {
+        "createdAt": "2022-04-25T18:09:35.311Z",
+        "name": "Padberg - Gleason",
+        "active": false,
+        "id": "1"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T07:03:13.585Z",
+      "name": "Mercedes Hayes MD",
+      "id": "9",
+      "companyId": "1",
+      "company": {
+        "createdAt": "2022-04-25T18:09:35.311Z",
+        "name": "Padberg - Gleason",
+        "active": false,
+        "id": "1"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T07:26:09.854Z",
+      "name": "Erica Goodwin",
+      "id": "2",
+      "companyId": "2",
+      "company": {
+        "createdAt": "2022-04-24T22:49:39.442Z",
+        "name": "Koss Group",
+        "active": false,
+        "id": "2"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T12:34:46.050Z",
+      "name": "Sally Towne",
+      "id": "6",
+      "companyId": "2",
+      "company": {
+        "createdAt": "2022-04-24T22:49:39.442Z",
+        "name": "Koss Group",
+        "active": false,
+        "id": "2"
+      }
+    },
+    {
+      "createdAt": "2022-04-26T00:14:05.937Z",
+      "name": "Marvin Mraz",
+      "id": "10",
+      "companyId": "2",
+      "company": {
+        "createdAt": "2022-04-24T22:49:39.442Z",
+        "name": "Koss Group",
+        "active": false,
+        "id": "2"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T11:19:16.449Z",
+      "name": "Rachel Flatley",
+      "id": "3",
+      "companyId": "3",
+      "company": {
+        "createdAt": "2022-04-25T07:42:51.431Z",
+        "name": "Beatty, Vandervort and Schamberger",
+        "active": true,
+        "id": "3"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T16:38:43.633Z",
+      "name": "Maryann Dare",
+      "id": "7",
+      "companyId": "3",
+      "company": {
+        "createdAt": "2022-04-25T07:42:51.431Z",
+        "name": "Beatty, Vandervort and Schamberger",
+        "active": true,
+        "id": "3"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T04:08:59.989Z",
+      "name": "Jeff Wilderman",
+      "id": "11",
+      "companyId": "3",
+      "company": {
+        "createdAt": "2022-04-25T07:42:51.431Z",
+        "name": "Beatty, Vandervort and Schamberger",
+        "active": true,
+        "id": "3"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T06:11:52.955Z",
+      "name": "Essie O'Conner",
+      "id": "4",
+      "companyId": "4",
+      "company": {
+        "createdAt": "2022-04-25T17:39:46.780Z",
+        "name": "Breitenberg LLC",
+        "active": false,
+        "id": "4"
+      }
+    },
+    {
+      "createdAt": "2022-04-25T16:05:18.083Z",
+      "name": "Ernest Yost",
+      "id": "8",
+      "companyId": "4",
+      "company": {
+        "createdAt": "2022-04-25T17:39:46.780Z",
+        "name": "Breitenberg LLC",
+        "active": false,
+        "id": "4"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "createdAt": "2022-05-02T11:13:47.255Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6304533018585378",
+        "CVV": "876",
+        "spendLimit": 88401,
+        "balance": 30807
+      },
+      "id": "1",
+      "userId": "1"
+    },
+    {
+      "createdAt": "2022-05-01T20:18:45.068Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "3675-439004-8561",
+        "CVV": "715",
+        "spendLimit": 59801,
+        "balance": 79816
+      },
+      "id": "12",
+      "userId": "1"
+    },
+    {
+      "createdAt": "2022-05-02T07:56:33.189Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6381-6463-1827-3170",
+        "CVV": "698",
+        "spendLimit": 61225,
+        "balance": 8415
+      },
+      "id": "23",
+      "userId": "1"
+    },
+    {
+      "createdAt": "2022-05-02T12:37:34.692Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6709783159182147737",
+        "CVV": "154",
+        "spendLimit": 99256,
+        "balance": 97199
+      },
+      "id": "5",
+      "userId": "5"
+    },
+    {
+      "createdAt": "2022-05-01T16:57:21.872Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6706305926965313",
+        "CVV": "130",
+        "spendLimit": 71549,
+        "balance": 33447
+      },
+      "id": "16",
+      "userId": "5"
+    },
+    {
+      "createdAt": "2022-05-02T12:56:58.608Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6759-2369-5764-4331",
+        "CVV": "895",
+        "spendLimit": 43015,
+        "balance": 14792
+      },
+      "id": "2",
+      "userId": "2"
+    },
+    {
+      "createdAt": "2022-05-02T04:10:09.745Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "50381398186479893",
+        "CVV": "449",
+        "spendLimit": 31042,
+        "balance": 43691
+      },
+      "id": "13",
+      "userId": "2"
+    },
+    {
+      "createdAt": "2022-05-02T05:46:27.828Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "63049766577867502862",
+        "CVV": "367",
+        "spendLimit": 63687,
+        "balance": 95162
+      },
+      "id": "24",
+      "userId": "2"
+    },
+    {
+      "createdAt": "2022-05-02T13:41:24.938Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6767-8628-8366-4885-89",
+        "CVV": "586",
+        "spendLimit": 8873,
+        "balance": 25139
+      },
+      "id": "3",
+      "userId": "3"
+    },
+    {
+      "createdAt": "2022-05-02T08:10:37.961Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6011-6205-1804-2325-3040",
+        "CVV": "987",
+        "spendLimit": 39787,
+        "balance": 54687
+      },
+      "id": "14",
+      "userId": "3"
+    },
+    {
+      "createdAt": "2022-05-02T09:01:15.599Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6706902065260021",
+        "CVV": "523",
+        "spendLimit": 92405,
+        "balance": 80376
+      },
+      "id": "25",
+      "userId": "3"
+    },
+    {
+      "createdAt": "2022-05-02T10:13:08.949Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "3463-706224-22867",
+        "CVV": "946",
+        "spendLimit": 29744,
+        "balance": 90961
+      },
+      "id": "4",
+      "userId": "4"
+    },
+    {
+      "createdAt": "2022-05-02T02:08:41.847Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6767-2829-2024-9432-630",
+        "CVV": "531",
+        "spendLimit": 13184,
+        "balance": 15687
+      },
+      "id": "15",
+      "userId": "4"
+    },
+    {
+      "createdAt": "2022-05-02T08:49:47.116Z",
+      "currency": "MXN",
+      "cardInfo": {
+        "cardNumber": "6771-8962-2417-8898",
+        "CVV": "770",
+        "spendLimit": 64350,
+        "balance": 31817
+      },
+      "id": "26",
+      "userId": "4"
+    }
+  ],
+  "currency": [
+    {
+      "createdAt": "2022-04-25T09:32:35.522Z",
+      "conversionRate": 4.357,
+      "id": "1"
+    }
+  ]
+}

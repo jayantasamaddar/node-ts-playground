@@ -1,0 +1,12 @@
+{
+  "createdAt": "2022-04-25T17:51:14.648Z",
+  "name": "Carroll Wunsch II",
+  "id": "5",
+  "companyId": "1",
+  "company": {
+    "createdAt": "2022-04-25T18:09:35.311Z",
+    "name": "Padberg - Gleason",
+    "active": false,
+    "id": "1"
+  }
+}
